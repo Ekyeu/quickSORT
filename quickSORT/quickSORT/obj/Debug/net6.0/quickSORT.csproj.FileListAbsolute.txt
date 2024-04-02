@@ -1,0 +1,15 @@
+C:\Users\konto\source\repos\quickSORT\quickSORT\bin\Debug\net6.0\quickSORT.exe
+C:\Users\konto\source\repos\quickSORT\quickSORT\bin\Debug\net6.0\quickSORT.deps.json
+C:\Users\konto\source\repos\quickSORT\quickSORT\bin\Debug\net6.0\quickSORT.runtimeconfig.json
+C:\Users\konto\source\repos\quickSORT\quickSORT\bin\Debug\net6.0\quickSORT.dll
+C:\Users\konto\source\repos\quickSORT\quickSORT\bin\Debug\net6.0\quickSORT.pdb
+C:\Users\konto\source\repos\quickSORT\quickSORT\obj\Debug\net6.0\quickSORT.csproj.AssemblyReference.cache
+C:\Users\konto\source\repos\quickSORT\quickSORT\obj\Debug\net6.0\quickSORT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konto\source\repos\quickSORT\quickSORT\obj\Debug\net6.0\quickSORT.AssemblyInfoInputs.cache
+C:\Users\konto\source\repos\quickSORT\quickSORT\obj\Debug\net6.0\quickSORT.AssemblyInfo.cs
+C:\Users\konto\source\repos\quickSORT\quickSORT\obj\Debug\net6.0\quickSORT.csproj.CoreCompileInputs.cache
+C:\Users\konto\source\repos\quickSORT\quickSORT\obj\Debug\net6.0\quickSORT.dll
+C:\Users\konto\source\repos\quickSORT\quickSORT\obj\Debug\net6.0\refint\quickSORT.dll
+C:\Users\konto\source\repos\quickSORT\quickSORT\obj\Debug\net6.0\quickSORT.pdb
+C:\Users\konto\source\repos\quickSORT\quickSORT\obj\Debug\net6.0\quickSORT.genruntimeconfig.cache
+C:\Users\konto\source\repos\quickSORT\quickSORT\obj\Debug\net6.0\ref\quickSORT.dll
